@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-color": "#fffd00",
+        "marker-size": "small",
+        "marker-symbol": "monument",
         "test_prop": "test_val",
         "test_prop2": "test_val2"
       },
@@ -21,9 +21,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#29ff00",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star-stroked",
         "test_prop": "testytest",
         "test_prop2": "testtt"
       },
@@ -38,11 +38,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-color": "#0025ff",
+        "marker-size": "large",
+        "marker-symbol": "parking",
         "testy_prop": "testy_val",
-        "testy_propzz": "testy_valzz"
+        "testy_propzz": "testy_valzz",
+        "test_prop": "coucou"
       },
       "geometry": {
         "type": "Point",
