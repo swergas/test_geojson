@@ -8,7 +8,9 @@
         "marker-size": "small",
         "marker-symbol": "monument",
         "test_prop": "test_val",
-        "test_prop2": "test_val2"
+        "test_prop2": "test_val2",
+        "title": "BBBB",
+        "description": "{{{http://umap.openstreetmap.fr/en/map/arbres-bordelais_7480#14/44.8447/-0.5753|500*500}}}"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +27,8 @@
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
         "test_prop": "testytest",
-        "test_prop2": "testtt"
+        "test_prop2": "testtt",
+        "description": "sqgfqsgsqg {{{http://umap.openstreetmap.fr/en/map/arbres-bordelais_7480#14/44.8447/-0.5753|500*500}}} fzefzfazdazd"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,9 @@
         "marker-symbol": "parking",
         "testy_prop": "testy_val",
         "testy_propzz": "testy_valzz",
-        "test_prop": "coucou"
+        "test_prop": "coucou",
+        "title": "AAAAA",
+        "description": "{{{http://la-ruche.net/ruche/bordeaux/|500*500}}}"
       },
       "geometry": {
         "type": "Point",
