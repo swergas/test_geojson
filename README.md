@@ -2,17 +2,17 @@
 
 Test de modification collaborative d'une carte via modifications d'un fichier geojson.
 
-## Pour afficher la carte et interagir avec ses points
+## Pour afficher la carte collaborative et naviguer dans ses points
 
-http://umap.openstreetmap.fr/fr/map/test-geojson_198164#7/46.823/4.631
+La carte collaborative peut être visualisée sur UMap avec ce lien : http://umap.openstreetmap.fr/fr/map/test-geojson_198164#7/46.823/4.631
 
-La carte affiche un calque qui charge dynamiquement les données du fichier test.geojson de ce dépôt.
+Cette carte UMap contient un calque qui charge dynamiquement les données du fichier `test.geojson` de ce dépôt.
 Pour l'exemple, il y a aussi un autre calque avec quelques points supplémentaires.
 
 
-## Pour modifier le fichier test.geojson de ce dépôt
+## Pour modifier les points, en supprimer ou en ajouter (via le fichier test.geojson de ce dépôt)
 
-http://geojson.io/#id=github:swergas/test_geojson/blob/master/test.geojson&map=7/46.672/2.104
+Ouvrir dans l'outil web geojson.io le fichier `test.geojson` de ce dépôt, en cliquant sur ce lien : http://geojson.io/#id=github:swergas/test_geojson/blob/master/test.geojson&map=7/46.672/2.104
 
 Une fois les modifications faites dans l'interface utilisateur, sauvegardez-les vers ce dépôt principal :
 
