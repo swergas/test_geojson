@@ -1,5 +1,6 @@
 # Test geojson
-test
+
+Test de modification collaborative d'une carte via modifications d'un fichier geojson.
 
 ## Pour afficher la carte et interagir avec ses points
 
