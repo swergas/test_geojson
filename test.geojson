@@ -57,6 +57,22 @@
           46.40756396630067
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#94000d",
+        "marker-size": "medium",
+        "marker-symbol": "rocket",
+        "title": "Bordeaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.59326171875,
+          44.80132682904856
+        ]
+      }
     }
   ]
 }
