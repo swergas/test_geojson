@@ -22,3 +22,5 @@ Une fois les modifications faites dans l'interface utilisateur, sauvegardez-les 
 * Remplacer tout le contenu du fichier par ce que vous allez coller (CTRL-A puis CTRL-V) et sauvegarder les modifications. Cela va créer un fork du dépôt vers votre compte, ainsi qu'une pull request qui contiendra les modifications faites à ce fichier.
 
 Si vous détectez qu'il y a trop de lignes qui sont modifiées, et que ces modifications ne sont que du formatage, vous pouvez  reformatter le contenu du JSON, par exemple en l'ouvrant dans SublimeText et en faisant CTRL-ALT-J.
+
+Le propriétaire du dépôt acceptera votre pull request et les modifications que vous proposez seront alors visibles par tout le monde, si elle respecte les règles fixées dans le groupe (par exemple, une modification d'un point ne peut être acceptée que si elle est issue du même auteur que celui qui a créé le point).
